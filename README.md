@@ -3,19 +3,19 @@ This map is a rotationally symmetrical map designed for 6FFA games. Feedback is 
 
 What is symmetrical:
 
-The land shape
-The terrain
-The resources
-The ruins
-The initial barb camps
-The start locations of players and CS
-The initial position of your warrior
-Natural wonders (Spain is completely broken on this map - mirror civs or ban/fruity draft recommended)
+* The land shape
+* The terrain
+* The resources
+* The ruins
+* The initial barb camps
+* The start locations of players and CS
+* The initial position of your warrior
+* Natural wonders (Spain is completely broken on this map - mirror civs or ban/fruity draft recommended)
 
 What is not:
 
-The type of CS
-The world wrapping - wraps on x-axis only
+* The type of CS
+* The world wrapping - wraps on x-axis only
 
 Install instructions:
 Everyone in game needs to put the map script in their Maps folder. The default location is:
